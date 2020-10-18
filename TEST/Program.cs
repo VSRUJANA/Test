@@ -9,6 +9,7 @@ namespace TEST
             Console.WriteLine("Hello World!");
             Console.WriteLine("Master...");
             Console.WriteLine("UC1 branch");
+            Console.WriteLine("UC2 branch");
         }
     }
 }
